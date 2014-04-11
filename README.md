@@ -1,0 +1,1 @@
+The demo which use SwipeRefreshLayout like g+ or gmail app can auto load more data when the listview scroll to the end.
