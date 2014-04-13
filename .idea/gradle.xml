@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="G:\androidstudioproject\SwipeRefreshDemo" />
-            <option value="G:\androidstudioproject\SwipeRefreshDemo\samples" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/samples" />
           </set>
         </option>
       </GradleProjectSettings>
